@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "expo-font": "^12.0.10",
+    "expo-splash-screen": "^0.27.6",
+    "styled-components": "^6.1.13"
+  }
+}
